@@ -5,5 +5,7 @@ public class Main {
         //zmiany dla nowego klienta
 
         //zmiana 2
+
+        //zmiana 3
     }
 }
